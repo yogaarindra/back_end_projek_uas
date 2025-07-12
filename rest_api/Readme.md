@@ -218,9 +218,11 @@ Lalu tekan **Send** untuk melihat semua data user.
 
 Dengan menekan tombol **Send**, pengguna telah ditampilkan berdasarkan nomor id-nya.
 ```JSON
+{
 	"id": 1,
     "username": "Johndoe",
     "role": "superadmin"
+}
 ```
 
 ## 11. URL Untuk Membuat Data User yang Baru
