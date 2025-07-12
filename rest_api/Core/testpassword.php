@@ -19,7 +19,7 @@ $hashedPassword3 = password_hash($newPassword3, PASSWORD_DEFAULT);
 echo "Password asli: " . $newPassword3 . "<br>";
 echo "Hashed password: " . $hashedPassword3 . "<br>";
 
-$newPassword3 = "B1sn15"; // Ganti dengan password yang Anda ingin gunakan
+$newPassword3 = "B15n15"; // Ganti dengan password yang Anda ingin gunakan
 $hashedPassword3 = password_hash($newPassword3, PASSWORD_DEFAULT);
 echo "Password asli: " . $newPassword3 . "<br>";
 echo "Hashed password: " . $hashedPassword3 . "<br>";
