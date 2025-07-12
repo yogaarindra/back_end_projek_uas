@@ -270,9 +270,9 @@ Lalu tekan **Send** untuk menambahkan data user.
 Dengan mengisi program berikut:
 ```JSON
 {
-	"username": "DoniSandika", // mengubah username
-	"password": "ionD5692", // mengubah password
-	"role": "superadmin" // mengubah role menjadi superadmin
+	"username": "DoniSandika",
+	"password": "ionD5692",
+	"role": "superadmin"
 }
 ```
 
